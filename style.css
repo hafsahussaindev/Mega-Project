@@ -1,0 +1,91 @@
+body{
+
+background-color: #F7F6F9 ;
+overflow-x: hidden;
+
+}
+.main{
+    /* padding-bottom: 150px; */
+}
+.main-text{
+    padding-top: 100px;
+    padding-left: 60px;
+    padding-right: 60px;
+    justify-content: center;
+    
+}
+.navbar{
+    background-color: rgb(142, 99, 186) !important;
+}
+.navbar-brand img{
+    color: white !important;
+}
+.buttons .btn{
+    background-color: rgb(116, 73, 156)  !important;
+    border: 2px solid rgb(124, 40, 202);
+}
+.main-img{
+    
+    align-items: center;
+    padding-top: 100px;
+
+}
+.nav-item{
+    padding: 5px 15px;
+}
+.foot{
+    margin-top: 250px;
+}
+.edu-text > p{
+    font-size: 24px;
+    /* text-align: center; */
+}
+.edu-text h1{
+    padding-top: 50px;
+    padding-left: 260px ;  
+     justify-content:center;    
+}
+.mainexp{
+    padding-top: 60px;
+}
+.exp-img{
+    align-items: center;
+}
+.heading{
+    justify-content: center;
+    padding-left: 570px;
+    padding-top: 50px;
+}
+.container{
+   margin: auto;
+   padding-top: 60px;
+
+}
+input{
+    width: 45% !important;
+}
+.row h1{
+   color: rgb(106, 49, 159) !important;
+}
+.row p{
+    color:  rgb(100, 52, 145);
+}
+.main-text h3{
+   color: rgb(102, 50, 149) !important;
+}
+.heading h1{
+    color: rgb(102, 50, 149) !important;
+}
+.main-text button{
+    color: white;
+    background-color: rgb(114, 57, 168);
+    text-decoration: none !important;
+}
+.main-text button:hover{
+    background-color: rgb(119, 48, 191);
+}
+.foot p{
+    color: rgb(85, 38, 129);
+}
+
+
